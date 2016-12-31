@@ -2,7 +2,7 @@
 Just a place to save all useful links that I encounter while learning Web Development and educating myself.
 
 #### Podcasts
-I have a half an hour commute. So podcasts give a lot of learning directions to explore and also keep me up to date on modern programming technologies.  
+I have a half an hour commute. So podcasts give me a lot of learning directions to explore and also keep me up to date on modern programming technologies.  
 [List Podcasts I listen to.](podcasts.md)
 
 #### Unsorted links:
