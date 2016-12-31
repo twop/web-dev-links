@@ -3,7 +3,7 @@ Just a place to save all useful links that I encounter while learning Web Develo
 
 #### Podcasts
 I have a half an hour commute. So podcasts give me a lot of learning directions to explore and also keep me up to date on modern programming technologies.  
-[List Podcasts I listen to.](podcasts.md)
+[List of podcasts.](podcasts.md)
 
 #### Unsorted links:
 
