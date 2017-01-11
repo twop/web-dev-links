@@ -10,3 +10,7 @@ I have a half an hour commute. So podcasts give me a lot of learning directions 
 - **Amazing guide for React-Redux ecosystem**  
   https://github.com/markerikson/react-redux-links  
   That one inspired me to store all the links im going through every day. Super awesome structured way to tap into React-Redux world
+
+- **Hot to learn functional JS**  
+  https://gziolo.pl/2016/12/21/exploring-functional-javascript/    
+  Lots of links. Good starting point
