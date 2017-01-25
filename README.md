@@ -14,3 +14,7 @@ I have a half an hour commute. So podcasts give me a lot of learning directions 
 - **Hot to learn functional JS**  
   https://gziolo.pl/2016/12/21/exploring-functional-javascript/    
   Lots of links. Good starting point
+
+- **Progressive Web Apps with React.js: Part I — Introduction**
+  https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.l3zw3xmyq  
+  Cool collection of topics about PWA
